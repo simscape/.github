@@ -1,4 +1,6 @@
-# Open Source Simscape and Community Projects
+# Open Source Projects with Simscape
+
+![Simscape Product Family](https://github.com/simscape/simscape-github-org-resources/blob/main/SS_Family_ML_SL.png)
 
 #### Trending Topics: [Simulink](https://github.com/topics/simulink) | [Simscape](https://github.com/topics/simscape) | [Continuous Integration](https://github.com/topics/matlab-ci)
 
